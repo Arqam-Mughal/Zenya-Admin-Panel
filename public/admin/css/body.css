@@ -1,0 +1,21 @@
+        :root {
+            --sidebar-bg: #f8f9fa;
+            --primary-brown: #5c3d2e;
+            --hover-bg: #e9ecef;
+            --success-green: #28a745;
+            --warning-yellow: #ffc107;
+            --text-muted: #6c757d;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            overflow-x: hidden;
+        }
+
+      
